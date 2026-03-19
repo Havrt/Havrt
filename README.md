@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **Github**
 
-- I have basic to beginner-level skills with programming languages and software
+- I have basic to beginner-level skills with the programming languages and software listed
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/ken-yu-6142683a9/ </h3>
 <p align="left">
