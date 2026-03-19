@@ -3,13 +3,13 @@
 
 - I’m currently working on **Object Rendering with Python**
 
-- I’m looking for a Internship **for the summer or all year round**
+- I’m looking for an internship for the summer or all year round**
 
 - 📫 How to reach me **kent1123yu@gmail.com**
 
 - 👨‍💻 All of my projects are available at **Github**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/ken-yu-6142683a9/ </h3>
 <p align="left">
 </p>
 
